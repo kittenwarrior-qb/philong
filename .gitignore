@@ -1,0 +1,7 @@
+node_modules
+dist
+.vercel
+*.zip
+# file gốc ở root đã copy vào public/
+/*.fbx
+/avatar.png
